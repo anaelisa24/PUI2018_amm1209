@@ -1,0 +1,7 @@
+Zem_232's review of amm1209's HW_6_Citi Bike Hypothesis:
+
+The null hypothesis is clearly stated that the proportion of millennial biking is greater than the proportion of baby boomers biking. The labels are clearly described: “milennials” are defined as people born between 1981 and 1996, and “baby boomers” are defined as people born between 1946 and 1964 (both inclusive). 
+
+The null hypothesis and alternative hypothesis are then stated clearly with formulae. The formula for the null hypothesis is described as follows: the ratio of the count of millennial to the total count of city bike users will be greater than the ratio of the count of baby boomers to total count of city bike users. This seems to be correctly indicated in formulaic prose. 
+
+Since you are trying to compare two unpaired groups (millennials and baby boomers), and the type of data considered is numerical. Assuming that the parameters follow the normal distribution curve, then the appropriate test to use in this case would be the unpaired t-test. If you believe that the citibike data follows a non-Gaussian distribution, then you can look into using the Mann-Whitney U test or the Wilcoxon's rank sum test. 
