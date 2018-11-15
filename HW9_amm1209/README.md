@@ -6,3 +6,10 @@
 
 # Assignment 2
 
+1. Created a line using the line function with slope 1 and intercept 0, using x = np.arange(0, 101, 10)
+2. Plotted the different points with their corresponding errors obtained throught the error function supplied.
+3. Fitted the data using both x and sm.add_constant(x) as exogenous variables
+4. Plotted both fits, showing very similar fits
+5. Created a new line with slope 1 but with intercept = 100
+6. Fitted the data again with OLS using both x and sm.add_constant(x) as exogenous variables
+7. Fitted the data now using WLS using sm.add_constant(x) as exogenous variable
