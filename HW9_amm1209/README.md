@@ -13,3 +13,9 @@
 5. Created a new line with slope 1 but with intercept = 100
 6. Fitted the data again with OLS using both x and sm.add_constant(x) as exogenous variables
 7. Fitted the data now using WLS using sm.add_constant(x) as exogenous variable
+
+# Assignment 3
+
+1. Downloaded the data (mass shootings, total population by country, gdp by country and firearms info) from the different locations.
+2. Dropped the unnecessary columns from each dataframe and merged them together.
+3. Created different plots with and without error bars to show different factors like number of mass shootings, number of homicides by firearms, and number of civilian firearms against both the country GDP and the average civilian firearms per person.
